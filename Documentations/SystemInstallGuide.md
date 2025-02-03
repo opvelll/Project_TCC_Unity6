@@ -22,6 +22,8 @@ Project_TCCに含まれるシステムを、ご自身のUnityプロジェクト�
    - `com.utj.scenarioimporter`（テキストからゲームで扱いやすい台本を抽出する）
    - `com.utj.sceneloader`（シーンをGameObjectのように読込・解放する）
 
+   **注意:** Unityの画面からドロップすると、Assetsの方に放り込まれるので注意
+
 4. **Unityエディターの再起動**  
    インポート完了後、Unityエディターを再起動します。  
    **注意:** インポート直後は`UIElements`などの項目でエラーが発生することがあります。例えば、`TypeLoadException: Could not load type 'Utj.SceneManagement.SceneLoadType' from assembly 'GOSubSceneEditor'.` などですが、このエラーは次回起動以降は発生しませんので、無視してかまいません。
@@ -50,9 +52,9 @@ Visual Scriptingを使用する場合の設定手順です。
 
     ![SysInst_Image03.png](./Images/SysInst_Image03.png "SysInst_Image03")
 
-3. 必要に応じてType Optionsにクラスを新規に追加する
+3. 必要に応じてType Optionsにクラスを追加する
 
-   - `Type Options` メニューに、TCCパッケージのクラス(例えばScene Load Manager)を追加することで、Visual Scripting画面のノード検索より呼び出すことができます。
+   - チュートリアルを読み進めて、Visual Scriptingから呼び出せないクラスがある場合、`Type Options` メニューに、TCCパッケージのクラスを追加します。(例えばSceneLoaderのScene Load Manager)
 
 ## SceneLoaderの使用
 
