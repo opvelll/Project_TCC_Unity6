@@ -676,6 +676,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!114 &-2918648617415125514
@@ -836,6 +838,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!1101 &-721549504850054417
@@ -1238,6 +1242,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!114 &1205060056059695285
@@ -1741,6 +1747,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!1101 &6046392975850197636

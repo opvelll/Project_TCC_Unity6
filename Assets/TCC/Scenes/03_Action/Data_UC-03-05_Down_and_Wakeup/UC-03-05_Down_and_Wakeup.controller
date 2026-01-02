@@ -146,7 +146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _key: Wakeup
-  _range: {x: 0, y: 0.95}
+  _range: {x: 0.584, y: 1}
 --- !u!1102 &-7599628747005291878
 AnimatorState:
   serializedVersion: 6
@@ -215,6 +215,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!1109 &-6823349168449306433
@@ -738,6 +740,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!114 &-2918648617415125514
@@ -908,6 +912,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!1101 &-975871420663456185
@@ -949,6 +955,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!1101 &-721549504850054417
@@ -1416,6 +1424,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!114 &1135176293816065511
@@ -1991,6 +2001,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!1102 &5972868887617607411
@@ -2118,6 +2130,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _start: 0
   _end: 1
+  _copyed: 1
+  _range: {x: 0, y: 1}
   _useGroundNormal: 1
   _isFixedPosition: 0
 --- !u!114 &7023205078558261056
